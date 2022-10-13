@@ -11,7 +11,6 @@ def print_hello():
     print("Hello World!!")
 
 
-print("남은솔 공주 웅냥냥")
 def print_KIT():
     print("kumoh")
     print("KIT")
@@ -20,8 +19,8 @@ if __name__ == '__main__':
     print_KIT()
     print(print_hello(1,2))
 
-print ("hello?")
-print ("kit")
+print ("hi! kit!")
+
 
 
 

@@ -8,10 +8,10 @@ def add(x,y):
 
 
 def print_hello():
-    print("Hello World!!")
+    print("Hello limjeongwoo123 World!!")
 
 
-print("남은솔 공주")
+print("임정우123  공주")
 def print_KIT():
     print("kumoh")
     print("KIT")
